@@ -1,0 +1,27 @@
+﻿  UnitTest1.cpp
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Array.h(17,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Array.h(18,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Array.h(19,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Array.h(20,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Array.h(32,18): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Array.h(35,47): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Array.h(36,59): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Array.cpp(9,34): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Array.cpp(18,34): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Array.cpp(31,34): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Array.cpp(43,45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Array.cpp(66,60): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Array.cpp(74,19): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Array.cpp(81,51): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Array.cpp(119,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Array.cpp(122,14): warning C4244: аргумент: преобразование "const double" в "const size_t", возможна потеря данных
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Array.cpp(126,39): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Array.cpp(141,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\oop_laba6.7\UnitTest1\UnitTest1.cpp(26,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Functors.h(70,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\oop_laba6.7\oop_laba6.7\Source.cpp(29): message : выполняется компиляция ссылки на экземпляр шаблон функции "T duplicate<Array>(T &)"
+          with
+          [
+              T=Array
+          ]
+  UnitTest1.vcxproj -> C:\Users\Пользователь\source\repos\oop_laba6.7\Debug\UnitTest1.dll
